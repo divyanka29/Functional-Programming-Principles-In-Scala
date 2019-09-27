@@ -1,0 +1,254 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$1$$anonfun$2.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$1.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7$$anonfun$11.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7$$anonfun$12.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7$$anonfun$13.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7$$anonfun$14.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8$$anonfun$16.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8$$anonfun$17.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8$$anonfun$18.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8$$anonfun$19.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$20$$anon$9$$anonfun$21.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$20$$anon$9.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$20.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$3$$anon$1.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$3.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$4$$anon$2.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$4.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$5$$anon$3.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$5.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$6$$anon$4.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$6.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$7$$anon$5.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$7.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$8$$anon$6$$anonfun$9.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$8$$anon$6.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$8.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$TestSets$class.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$TestSets.class
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite.class
+binary dependencies:
+4 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.10\junit-4.10.jar
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+1 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSets$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$1
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$1$$anonfun$2
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10$$anon$7
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10$$anon$7$$anonfun$11
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10$$anon$7$$anonfun$12
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10$$anon$7$$anonfun$13
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$10$$anon$7$$anonfun$14
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15$$anon$8
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15$$anon$8$$anonfun$16
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15$$anon$8$$anonfun$17
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15$$anon$8$$anonfun$18
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$15$$anon$8$$anonfun$19
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$20
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$20$$anon$9
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$20$$anon$9$$anonfun$21
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$3
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$3$$anon$1
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$4
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$4$$anon$2
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$5
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$5$$anon$3
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$6
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$6$$anon$4
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$7
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$7$$anon$5
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$8
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$8$$anon$6
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$$anonfun$8$$anon$6$$anonfun$9
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$TestSets
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets.FunSetSuite$TestSets$class
+used names:
+73 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> $anon
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> $org_scalatest_assert_macro_expr
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> %
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> *
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> <byname>
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> <init>
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> <repeated>
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> ==
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> A
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Any
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> AnyRef
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> AssertionsHelper
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Bool
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Boolean
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> FunSetSuite
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> FunSets
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> FunSuite
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Function1
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Int
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> JUnitRunner
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> List
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Nothing
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Object
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Predef
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> RunWith
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Set
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> String
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Tag
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> TestSets
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> Unit
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> apply
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> assert
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> assertionsHelper
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> contains
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> diff
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> evens
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> evensAndOddAtBeg
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> evensAndOddAtEnd
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> evensAndOddAtMiddle
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> exists
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> filter
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> forall
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> funsets
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> immutable
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> intersect
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> junit
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> m1
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> m2
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> m3
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> macroAssert
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> map
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> multipleSet
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> notBool
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> odds
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> org
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> package
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> runner
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> s
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> s1
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> s2
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> s3
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> scala
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> scalactic
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> scalatest
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> simpleMacroBool
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> singletonSet
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> t
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> test
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> u
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> unary_!
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> union
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> v
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> x
+product stamps:
+33 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$1$$anonfun$2.class -> lastModified(1569607491279)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$1.class -> lastModified(1569607491264)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7$$anonfun$11.class -> lastModified(1569607491323)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7$$anonfun$12.class -> lastModified(1569607491335)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7$$anonfun$13.class -> lastModified(1569607491345)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7$$anonfun$14.class -> lastModified(1569607491355)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10$$anon$7.class -> lastModified(1569607491310)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$10.class -> lastModified(1569607491289)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8$$anonfun$16.class -> lastModified(1569607491406)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8$$anonfun$17.class -> lastModified(1569607491420)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8$$anonfun$18.class -> lastModified(1569607491430)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8$$anonfun$19.class -> lastModified(1569607491440)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15$$anon$8.class -> lastModified(1569607491386)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$15.class -> lastModified(1569607491365)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$20$$anon$9$$anonfun$21.class -> lastModified(1569607491488)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$20$$anon$9.class -> lastModified(1569607491472)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$20.class -> lastModified(1569607491452)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$3$$anon$1.class -> lastModified(1569607491525)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$3.class -> lastModified(1569607491503)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$4$$anon$2.class -> lastModified(1569607491553)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$4.class -> lastModified(1569607491537)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$5$$anon$3.class -> lastModified(1569607491578)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$5.class -> lastModified(1569607491564)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$6$$anon$4.class -> lastModified(1569607491602)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$6.class -> lastModified(1569607491588)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$7$$anon$5.class -> lastModified(1569607491634)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$7.class -> lastModified(1569607491614)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$8$$anon$6$$anonfun$9.class -> lastModified(1569607491687)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$8$$anon$6.class -> lastModified(1569607491671)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$$anonfun$8.class -> lastModified(1569607491649)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$TestSets$class.class -> lastModified(1569607491712)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite$TestSets.class -> lastModified(1569607491702)
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\target\scala-2.11\test-classes\funsets\FunSetSuite.class -> lastModified(1569607491248)
+source stamps:
+1 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> hash(1fff711b6b40e912904110298e081acb5c8e3b6e)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar -> lastModified(1568330378793)
+C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.10\junit-4.10.jar -> lastModified(1317323535000)
+C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar -> lastModified(1422515758000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar -> java.lang.Object
+C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.10\junit-4.10.jar -> org.junit.runner.RunWith
+C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.Unit
+C:\Users\DIBOSE\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar -> org.scalatest.FunSuite
+internal apis:
+1 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwxVA+1wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBdI7h+dAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgALOw0Es3QAEmNvbnZlcnRUb0VxdWFsaXplcnVxAH4ACQAAAHFzcQB+AAt9tWaNdAAGYXNzZXJ0c3EAfgALSFTYcHQABm5vdGlmeXNxAH4AC84TK050ACZsb3dQcmlvcml0eUNvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4AC7AR5a50ABBBc3NlcnRpb25zSGVscGVyc3EAfgALmixk3XQABmNhbmNlbHNxAH4AC8IZho90AAR0ZXN0c3EAfgALceZHp3QAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALEsamonQADGV4cGVjdFJlc3VsdHNxAH4AC2Fys2F0AARvZGRzc3EAfgALKShjbHQACWludGVyY2VwdHNxAH4ACyqf4pJ0AARmYWlsc3EAfgALp0WKhnQAAm0yc3EAfgAL2zQosHQABG5hbWVzcQB+AAtP4veQdAACczNzcQB+AAvGArOwdAAUYXNzZXJ0RG9lc05vdENvbXBpbGVzcQB+AAvK6mcUdAARZXhlY3V0ZSRkZWZhdWx0JDRzcQB+AAvEjrtCdAAHZXhlY3V0ZXNxAH4ACwHiBMd0AAR3YWl0c3EAfgALWNVDcXQAC3Rlc3REYXRhRm9yc3EAfgALIMwfo3QAE2NyZWF0ZUNhdGNoUmVwb3J0ZXJzcQB+AAuSjrxGdAAJc3R5bGVOYW1lc3EAfgAL1SsdInQADSRhc0luc3RhbmNlT2ZzcQB+AAv0PtNQdAARZXhlY3V0ZSRkZWZhdWx0JDNzcQB+AAsEmNEEdAAJY29uZmlnTWFwc3EAfgAL4446f3QABmVxdWFsc3NxAH4AC7H7tIZ0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC/eoRe10AA9kZWZhdWx0RXF1YWxpdHlzcQB+AAsj2VR1dAAIVGVzdFNldHNzcQB+AAt0x0S/dAAiY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29uc3RyYWludHNxAH4AC57a3990AAR0YWdzc3EAfgAL40dLpHQADGFzSW5zdGFuY2VPZnNxAH4AC/IJ+YV0AAVhbGVydHNxAH4AC0rwttV0AANydW5zcQB+AAuNLDg8dAAPTGVnYWN5RXF1YWxpemVyc3EAfgALZo4D9XQABnNjb3Blc3NxAH4AC6spDgt0ABhjb252ZXJ0VG9MZWdhY3lFcXVhbGl6ZXJzcQB+AAtYfiJ7dAAMc3luY2hyb25pemVkc3EAfgALkMXnxnQADmFzc2VydENvbXBpbGVzc3EAfgALFJxf43QAEGV2ZW5zQW5kT2RkQXRFbmRzcQB+AAtuZcOIdAANJGlzSW5zdGFuY2VPZnNxAH4AC09gl1J0AAR0cmFwc3EAfgALkf62l3QAFXRlc3REYXRhRm9yJGRlZmF1bHQkMnNxAH4AC+iyYw50AAxhc3NlcnRSZXN1bHRzcQB+AAtdHRDcdAACczJzcQB+AAsn/Cu8dAAEdGV4dHNxAH4AC4Q+Lb90ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC8TO4N90AAJtMXNxAH4AC85dGXh0ABFleGVjdXRlJGRlZmF1bHQkN3NxAH4AC9FYM290ABV0eXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAtM/F3GdAADIT09c3EAfgALH8qljnQABGluZm9zcQB+AAvUphGKdAAJbm90aWZ5QWxsc3EAfgALX2mOVHQAC3dpdGhGaXh0dXJlc3EAfgAL4rNnCHQAB3J1blRlc3RzcQB+AAv8yAvxdAAMaXNJbnN0YW5jZU9mc3EAfgALHZUYE3QACHdpdGhDbHVlc3EAfgALuWCqK3QAEGFzc2VydGlvbnNIZWxwZXJzcQB+AAvoJMaudAARZXhlY3V0ZSRkZWZhdWx0JDZzcQB+AAsWFhWodAAPYXNzZXJ0VHlwZUVycm9yc3EAfgALOzPVXHQABm1hcmt1cHNxAH4AC7wmYxd0AAhsZWZ0U2lkZXNxAH4AC/DoRFt0AAtGdW5TZXRTdWl0ZXNxAH4AC+mlRpJ0AAY8aW5pdD5zcQB+AAs+akifdAALbWFjcm9Bc3N1bWVzcQB+AAtap8hvdAAPcnVuTmVzdGVkU3VpdGVzc3EAfgALyTgB33QABWFwcGx5c3EAfgALhTUvTnQAE2V2ZW5zQW5kT2RkQXRNaWRkbGVzcQB+AAtVyYTRdAAJRXF1YWxpemVyc3EAfgAL1TESrXQAAnMxc3EAfgALgy/SH3QAG25ld0Fzc2VydGlvbkZhaWxlZEV4Y2VwdGlvbnNxAH4AC3LMcAV0AARub3Rlc3EAfgAL/0JeKHQAAj09c3EAfgALsv6XdnQAEGV2ZW5zQW5kT2RkQXRCZWdzcQB+AAvFgC6cdAAFY2xvbmVzcQB+AAuoghcGdAAGZXhwZWN0c3EAfgALbgaMcXQADG5lc3RlZFN1aXRlc3NxAH4AC/VdtCd0AAZhc3N1bWVzcQB+AAtELi8PdAAGJGluaXQkc3EAfgALRgSZg3QAIGxvd1ByaW9yaXR5VHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALnQByLHQADHJlZ2lzdGVyVGVzdHNxAH4AC5ceeHx0ABFleGVjdXRlJGRlZmF1bHQkNXNxAH4AC2RFMX10AAM9PT1zcQB+AAvxA5ksdAAYbmV3VGVzdENhbmNlbGVkRXhjZXB0aW9uc3EAfgALX4shIHQACHRvU3RyaW5nc3EAfgAL4fRxJnQACXRlc3ROYW1lc3NxAH4AC4QlUIB0AAVldmVuc3NxAH4AC42en5R0ABFleGVjdXRlJGRlZmF1bHQkMXNxAH4AC63Enlx0AAIhPXNxAH4AC1TTm6J0ABdMZWdhY3lDaGVja2luZ0VxdWFsaXplcnNxAH4AC1GBUrZ0AAhnZXRDbGFzc3NxAH4AC34EMkN0ABNyZWdpc3Rlcklnbm9yZWRUZXN0c3EAfgALY32drXQACHRlc3RzRm9yc3EAfgALdj2GBXQACHJ1blRlc3Rzc3EAfgALHzCAo3QAEXBlbmRpbmdVbnRpbEZpeGVkc3EAfgALOdQuDHQAAm0zc3EAfgALKkTT4nQAEWV4cGVjdGVkVGVzdENvdW50c3EAfgALIVTsSnQACHJlcnVubmVyc3EAfgALm7DJgHQAImNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnN0cmFpbnRzcQB+AAu4nMMydAACbmVzcQB+AAuSSqlodAARQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAthP5o6dAAgY29udmVydFRvTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAtDxajKdAAHcGVuZGluZ3NxAH4AC3zDgcB0AAZpZ25vcmVzcQB+AAu1acDhdAALbWFjcm9Bc3NlcnRzcQB+AAsiUxdAdAACZXFzcQB+AAsSbuFTdAAaY29udmVydFRvQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAseOr9SdAAJTm9BcmdUZXN0c3EAfgALHZPS9nQAAiMjc3EAfgALk/gVQXQACGZpbmFsaXplc3EAfgALi8Jx7nQAG2NvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4AC7DqPcJ0AAhoYXNoQ29kZXNxAH4AC++8/Rl0AAdzdWl0ZUlkc3EAfgALC2ZqmHQACXN1aXRlTmFtZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AP14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNldAAQTHhzYnRpL2FwaS9UeXBlO3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAV2YWx1ZXQAKGNsYXNzT2Zbb3JnLnNjYWxhdGVzdC5qdW5pdC5KVW5pdFJ1bm5lcl1zcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHUnVuV2l0aHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BFnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADb3Jnc3EAfgEidAAFanVuaXRzcQB+ASJ0AAZydW5uZXJzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BI3NyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE2Z1bnNldHMuRnVuU2V0U3VpdGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+ARZzcQB+ATlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4A/UwACWluaGVyaXRlZHEAfgD9TAAHcGFyZW50c3EAfgD9eHEAfgEXc3EAfgE5dXEAfgD4AAAAAHNxAH4BOXVxAH4A+AAAAABzcQB+ATl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAD3NxAH4BFHQACEZ1blN1aXRlc3EAfgEac3EAfgEddXEAfgEgAAAAA3NxAH4BInQAA29yZ3NxAH4BInQACXNjYWxhdGVzdHEAfgErc3EAfgEUdAAMRnVuU3VpdGVMaWtlcQB+AUpzcQB+ARR0AAtEb2N1bWVudGluZ3EAfgFKc3EAfgEUdAAIQWxlcnRpbmdxAH4BSnNxAH4BFHQACU5vdGlmeWluZ3EAfgFKc3EAfgEUdAAJSW5mb3JtaW5ncQB+AUpzcQB+ARR0ABBUZXN0UmVnaXN0cmF0aW9ucQB+AUpzcQB+ARR0AAVTdWl0ZXEAfgFKc3EAfgEUdAAMU2VyaWFsaXphYmxlc3EAfgEac3EAfgEddXEAfgEgAAAAA3NxAH4BInQABGphdmFzcQB+ASJ0AAJpb3EAfgErc3EAfgEUdAANQWJzdHJhY3RTdWl0ZXEAfgFKc3EAfgEUdAAKQXNzZXJ0aW9uc3EAfgFKc3EAfgEUdAAMVHJpcGxlRXF1YWxzc3EAfgEac3EAfgEddXEAfgEgAAAAA3NxAH4BInQAA29yZ3NxAH4BInQACXNjYWxhY3RpY3EAfgErc3EAfgEUdAATVHJpcGxlRXF1YWxzU3VwcG9ydHEAfgFuc3EAfgEUdAAGT2JqZWN0c3EAfgEac3EAfgEddXEAfgEgAAAAA3NxAH4BInEAfgFlc3EAfgEidAAEbGFuZ3EAfgErc3EAfgEUdAADQW55c3EAfgEac3EAfgEddXEAfgEgAAAAAnNxAH4BInQABXNjYWxhcQB+ASt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAdmdW5zZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFtc+WWnXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFVDOlxVc2Vyc1xESUJPU0Vcc291cmNlXHJlcG9zXFNjYWxhQ291cnNlXFdlZWsyXGZ1bnNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUH/9xG2tA6RKQQRApjggay1yOO24=
+external apis:
+1 items
+funsets.FunSets$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCjQuQQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwChuhq3QABm5vdGlmeXNxAH4ADL4x2R50AANTZXRzcQB+AAy6+22YdAAEd2FpdHNxAH4ADFv+wT90AA0kYXNJbnN0YW5jZU9mc3EAfgAMg9QPwXQABXVuaW9uc3EAfgAMQWt8I3QACWludGVyc2VjdHNxAH4ADKw8M0h0AAxzaW5nbGV0b25TZXRzcQB+AAzGEFZ/dAADbWFwc3EAfgAMJWgIAXQABmVxdWFsc3NxAH4ADAT1zB10AAxhc0luc3RhbmNlT2ZzcQB+AAxRwsRjdAAMc3luY2hyb25pemVkc3EAfgAMv50i13QADSRpc0luc3RhbmNlT2ZzcQB+AAwPOWi6dAAGZm9yYWxsc3EAfgAMhr5aD3QACHByaW50U2V0c3EAfgAMwS+lbnQACW5vdGlmeUFsbHNxAH4ADGTVKbl0AAxpc0luc3RhbmNlT2ZzcQB+AAyQpI/BdAAGZmlsdGVyc3EAfgAMMMCQBnQABWJvdW5kc3EAfgAMXawBJXQAB0Z1blNldHNzcQB+AAxfIZNUdAAEZGlmZnNxAH4ADIernjJ0AAI9PXNxAH4ADBcUkDh0AAVjbG9uZXNxAH4ADJOCQeh0AAZleGlzdHNzcQB+AAzP+xdodAAIdG9TdHJpbmdzcQB+AAyoNsCxdAACIT1zcQB+AAwMjsmvdAAIZ2V0Q2xhc3NzcQB+AAysr0GVdAAIY29udGFpbnNzcQB+AAzD449qdAACbmVzcQB+AAzW7+VBdAACZXFzcQB+AAwoXlg5dAALbXVsdGlwbGVTZXRzcQB+AAwK8Zp/dAACIyNzcQB+AAyGOrg/dAAIZmluYWxpemVzcQB+AAxl1ht7dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPZnVuc2V0cy5GdW5TZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFlMAAlpbmhlcml0ZWRxAH4AWUwAB3BhcmVudHNxAH4AWXhxAH4AdnNxAH4AcXVxAH4AVAAAAABzcQB+AHF1cQB+AFQAAAAAc3EAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB1dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCOdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCPc3EAfgCCdAADQW55c3EAfgCGc3EAfgCJdXEAfgCMAAAAAnNxAH4AjnQABXNjYWxhcQB+AJV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdmdW5zZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFtc+V+J3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFBDOlxVc2Vyc1xESUJPU0Vcc291cmNlXHJlcG9zXFNjYWxhQ291cnNlXFdlZWsyXGZ1bnNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFznVYAKTo2JfRnTdOjnKcyg/ks8
+source infos:
+1 items
+C:\Users\DIBOSE\source\repos\ScalaCourse\Week2\funsets\src\test\scala\funsets\FunSetSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbXPllp11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XFVzZXJzXERJQk9TRVxzb3VyY2VccmVwb3NcU2NhbGFDb3Vyc2VcV2VlazJcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0AAEv
