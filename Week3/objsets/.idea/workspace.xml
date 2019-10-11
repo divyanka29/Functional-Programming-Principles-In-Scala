@@ -83,6 +83,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="18846478875516" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2959508787" />
         <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2286689913" />
         <entry key="$PROJECT_DIR$/project/Courses.scala" value="1290868088" />
@@ -122,7 +123,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

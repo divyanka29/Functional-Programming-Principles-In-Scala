@@ -145,7 +145,7 @@ object Huffman {
         }
       }
     }
-  /*
+
   /**
    * This function will be called in the following way:
    *
@@ -163,15 +163,23 @@ object Huffman {
    *    the example invocation. Also define the return type of the `until` function.
    *  - try to find sensible parameter names for `xxx`, `yyy` and `zzz`.
    */
-    def until(xxx: ???, yyy: ???)(zzz: ???): ??? = ???
-  
+    def until(isSingleton: List[CodeTree] => Boolean,
+              combineNodes: List[CodeTree] => List[CodeTree])
+             (trees: List[CodeTree]): List[CodeTree] = {
+      if(isSingleton(trees)) trees
+      else until(isSingleton, combineNodes)(combine(trees))
+    }
+
   /**
    * This function creates a code tree which is optimal to encode the text `chars`.
    *
    * The parameter `chars` is an arbitrary text. This function extracts the character
    * frequencies from that text and creates a code tree based on them.
    */
-    def createCodeTree(chars: List[Char]): CodeTree = ???
+    def createCodeTree(chars: List[Char]): CodeTree = {
+      if (chars.isEmpty) throw new NotImplementedError("passed empty string")
+      else until(singleton, combine)(makeOrderedLeafList(times(chars))).head
+    }
   
 
   // Part 3: Decoding
@@ -202,7 +210,7 @@ object Huffman {
    */
     def decodedSecret: List[Char] = ???
   
-
+/*
   // Part 4a: Encoding using Huffman tree
 
   /**
