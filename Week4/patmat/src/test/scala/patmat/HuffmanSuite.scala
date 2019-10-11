@@ -1,10 +1,10 @@
 package patmat
 
-import org.scalatest.FunSuite
+import java.util.Locale.LanguageRange
 
+import org.scalatest.FunSuite
 import org.junit.runner.RunWith
 import org.scalatest.junit.JUnitRunner
-
 import patmat.Huffman._
 
 @RunWith(classOf[JUnitRunner])
@@ -46,6 +46,12 @@ class HuffmanSuite extends FunSuite {
   test("combine of some leaf list") {
     val leaflist = List(Leaf('e', 1), Leaf('t', 2), Leaf('x', 4))
     assert(combine(leaflist) === List(Fork(Leaf('e',1),Leaf('t',2),List('e', 't'),3), Leaf('x',4)))
+  }
+
+  test( testName = "decode" ) {
+    val tree: CodeTree = Fork(Leaf('a', 3), Fork(Leaf('b', 2), Leaf('c', 1), List('b', 'c'), 3), List('a', 'b', 'c'), 6)
+    val secret: List[Bit] = List(1,0,0,1,1)
+    assert(decode(tree, secret) === List('b', 'a', 'c'))
   }
 
 /*
