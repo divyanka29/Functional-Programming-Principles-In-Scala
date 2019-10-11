@@ -39,7 +39,6 @@ object Huffman {
     Fork(left, right, chars(left) ::: chars(right), weight(left) + weight(right))
 
 
-
   // Part 2: Generating Huffman trees
 
   /**
@@ -227,7 +226,6 @@ object Huffman {
    * Write a function that returns the decoded secret
    */
     def decodedSecret: List[Char] = decode(frenchCode, secret)
-/*
 
   // Part 4a: Encoding using Huffman tree
 
@@ -236,18 +234,29 @@ object Huffman {
    * into a sequence of bits.
    */
     def encode(tree: CodeTree)(text: List[Char]): List[Bit] = {
-
+      encodeAcc(tree, tree, text, List[Bit]())
     }
 
-    def encode(tree: CodeTree, text: List[Char], result: List[Bit]): List[Bit] = {
-      if (text.isEmpty) result
-      else {
-        tree match {
-          case
+    def encodeAcc(head: CodeTree, tree: CodeTree, text: List[Char], result: List[Bit]): List[Bit] = {
+      tree match {
+        case Leaf(_, _) => {
+          if (text.length == 1 ) result
+          else encodeAcc(head, head, text.tail, result)
+        }
+        case Fork(left, right, _, _) => {
+          if (chars(left).contains(text.head)) {
+            val added = result :+ 0
+            encodeAcc(head, left, text, added)
+          }
+          else if (chars(right).contains(text.head)) {
+            val added = result :+ 1
+            encodeAcc(head, right, text, added)
+          }
+          else throw new NotImplementedError("Char not found in CodeTree")
         }
       }
-
     }
+
 
   // Part 4b: Encoding using code table
 
@@ -257,8 +266,8 @@ object Huffman {
    * This function returns the bit sequence that represents the character `char` in
    * the code table `table`.
    */
-    def codeBits(table: CodeTable)(char: Char): List[Bit] = ???
-  
+    def codeBits(table: CodeTable)(char: Char): List[Bit] = table.filter(x => x._1 == char).head._2
+  /*
   /**
    * Given a code tree, create a code table which contains, for every character in the
    * code tree, the sequence of bits representing that character.
@@ -267,7 +276,7 @@ object Huffman {
    * a valid code tree that can be represented as a code table. Using the code tables of the
    * sub-trees, think of how to build the code table for the entire tree.
    */
-    def convert(tree: CodeTree): CodeTable = ???
+    def convert(tree: CodeTree): CodeTable =
   
   /**
    * This function takes two code tables and merges them into one. Depending on how you

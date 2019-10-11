@@ -54,6 +54,11 @@ class HuffmanSuite extends FunSuite {
     assert(decode(tree, secret) === List('b', 'a', 'c'))
   }
 
+  test( testName = "encode" ) {
+    val tree: CodeTree = Fork(Leaf('a', 3), Fork(Leaf('b', 2), Leaf('c', 1), List('b', 'c'), 3), List('a', 'b', 'c'), 6)
+    assert(encode(tree)(List('b', 'a', 'c')) === List[Bit](1,0,0,1,1))
+  }
+
 /*
   test("decode and encode a very short text should be identity") {
     new TestTrees {
