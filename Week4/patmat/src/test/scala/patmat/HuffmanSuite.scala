@@ -59,11 +59,11 @@ class HuffmanSuite extends FunSuite {
     assert(encode(tree)(List('b', 'a', 'c')) === List[Bit](1,0,0,1,1))
   }
 
-/*
+
   test("decode and encode a very short text should be identity") {
     new TestTrees {
-      assert(decode(t1, encode(t1)("ab".toList)) === "ab".toList)
+      assert(decode(t1, quickEncode(t1)("ab".toList)) === "ab".toList)
     }
   }
-*/
+
 }

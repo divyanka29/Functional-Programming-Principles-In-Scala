@@ -267,7 +267,7 @@ object Huffman {
    * the code table `table`.
    */
     def codeBits(table: CodeTable)(char: Char): List[Bit] = table.filter(x => x._1 == char).head._2
-  /*
+
   /**
    * Given a code tree, create a code table which contains, for every character in the
    * code tree, the sequence of bits representing that character.
@@ -276,22 +276,44 @@ object Huffman {
    * a valid code tree that can be represented as a code table. Using the code tables of the
    * sub-trees, think of how to build the code table for the entire tree.
    */
-    def convert(tree: CodeTree): CodeTable =
-  
+    def convert(tree: CodeTree): CodeTable = {
+      convertHelper(tree, List[Bit](), List[(Char, List[Bit])]())
+    }
+
+    def convertHelper(tree: CodeTree, bits: List[Bit], codeTable: CodeTable): CodeTable ={
+      tree match {
+        case Leaf(char, _) => codeTable :+ (char, bits)
+        case Fork(left, right, _, _) => {
+          mergeCodeTables(convertHelper(left, bits :+ 0, codeTable), convertHelper(right, bits :+ 1, codeTable))
+        }
+      }
+    }
+
   /**
    * This function takes two code tables and merges them into one. Depending on how you
    * use it in the `convert` method above, this merge method might also do some transformations
    * on the two parameter code tables.
    */
-    def mergeCodeTables(a: CodeTable, b: CodeTable): CodeTable = ???
-  
+    def mergeCodeTables(a: CodeTable, b: CodeTable): CodeTable = {
+      a ::: b
+    }
+
   /**
    * This function encodes `text` according to the code tree `tree`.
    *
    * To speed up the encoding process, it first converts the code tree to a code table
    * and then uses it to perform the actual encoding.
    */
-    def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = ???
+    def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = {
+      val codeTable = convert(tree)
+      quickEncodeHelper(codeTable, text, List[Bit]())
+    }
 
-  */
+    def quickEncodeHelper(codeTable: CodeTable, text: List[Char], result: List[Bit]): List[Bit] = {
+      if(text.isEmpty) result
+      else {
+        val currSequence = codeTable.filter(x => x._1 == text.head).head._2
+        quickEncodeHelper(codeTable, text.tail, result ::: currSequence)
+      }
+    }
   }
