@@ -54,7 +54,7 @@ object Anagrams {
    *    List(('a', 1), ('e', 1), ('t', 1)) -> Seq("ate", "eat", "tea")
    *
    */
-  lazy val dictionaryByOccurrences: Map[Occurrences, List[Word]] = dictionary.groupBy(wordOccurrences)
+  lazy val dictionaryByOccurrences: Map[Occurrences, List[Word]] = dictionary.groupBy(wordOccurrences).withDefaultValue(List())
 
   /** Returns all the anagrams of a given word. */
   def wordAnagrams(word: Word): List[Word] = dictionaryByOccurrences.getOrElse(wordOccurrences(word), Nil)
@@ -99,14 +99,24 @@ object Anagrams {
    *  Note: the resulting value is an occurrence - meaning it is sorted
    *  and has no zero-entries.
    */
-  def subtract(x: Occurrences, y: Occurrences): Occurrences = {
-    (for {
+ /* def subtract(x: Occurrences, y: Occurrences): Occurrences = {
+    val t = (for {
       (xChar, xInt) <- x
       (yChar, yInt) <- y
-    } yield if (xChar == yChar) (xChar, xInt - yInt) else (xChar, xInt) ) filterNot( pair => pair._2 == 0)
+    } yield if (xChar == yChar) (xChar, xInt - yInt) else (xChar, 0))
+    t.filter( pair => pair._2 != 0)
 
 
+  }*/
+
+
+  def subtract(x: Occurrences, y: Occurrences): Occurrences = {
+    val yMap = y.toMap
+   (for {
+      (xChar, xInt) <- x
+    } yield if (yMap.contains(xChar)) (xChar, xInt - yMap(xChar)) else (xChar, xInt)) filter(pair => pair._2 != 0)
   }
+
 
   /** Returns a list of all anagram sentences of the given sentence.
    *
@@ -149,8 +159,16 @@ object Anagrams {
    *  Note: There is only one anagram of an empty sentence.
    */
   def sentenceAnagrams(sentence: Sentence): List[Sentence] = {
-    val sentenceOcc = sentenceOccurrences(sentence)
-    val allOcc = combinations(sentenceOcc)
-
+    def getEach(occurrences: Occurrences): List[Sentence] = {
+      if(occurrences.isEmpty) List(List())
+      else {
+        for {
+          occurrence <- combinations(occurrences)
+          word <- dictionaryByOccurrences(occurrence)
+          anagram <- getEach(subtract(occurrences, occurrence))
+        } yield word :: anagram
+      }
+    }
+    getEach(sentenceOccurrences(sentence))
   }
 }
